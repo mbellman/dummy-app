@@ -1,0 +1,19 @@
+{
+  "name": "dummy-app",
+  "version": "1.0.0",
+  "description": "An experimental consumer of an experimental SDK tool.",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbellman/dummy-app.git"
+  },
+  "author": "Malcolm Bellman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mbellman/dummy-app/issues"
+  },
+  "homepage": "https://github.com/mbellman/dummy-app#readme",
+  "devDependencies": {
+    "dummy-sdk": "git+https://github.com/mbellman/dummy-sdk.git"
+  }
+}
