@@ -1,5 +1,6 @@
 import React from 'react';
+import Thing from './Thing';
 
-const App = () => <div></div>;
+const App = () => <Thing />;
 
 export default App;
