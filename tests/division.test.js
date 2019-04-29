@@ -1,3 +1,3 @@
 test('divides', () => {
-	expect(10 / 5).toBe(2);
+  expect(10 / 5).toBe(2);
 });
